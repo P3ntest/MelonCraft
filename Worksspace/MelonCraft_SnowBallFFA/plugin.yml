@@ -1,0 +1,4 @@
+name: SnowballFFA
+version: 1.0
+main: de.xXraxFraeyXx.MelonCraft.SnowBallFFA.Main.Main
+commands:
