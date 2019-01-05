@@ -1,0 +1,6 @@
+name: RPG_ClaimSystem
+version: 1.0
+main:  de.xXraxFraeyXx.MelonCraft.rpgClaim.Main
+commands:
+  claim:
+  chunkinfo:
