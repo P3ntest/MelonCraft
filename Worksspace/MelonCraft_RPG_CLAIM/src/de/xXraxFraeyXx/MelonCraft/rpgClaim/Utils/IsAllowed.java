@@ -20,6 +20,8 @@ public class IsAllowed {
 				if (!xc.team.contains(p.getUniqueId().toString())) {
 					return false;
 				}
+			}else {
+				return false;
 			}
 		}
 		return true;

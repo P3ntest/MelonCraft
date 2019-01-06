@@ -3,4 +3,6 @@ version: 1.0
 main:  de.xXraxFraeyXx.MelonCraft.rpgClaim.Main
 commands:
   claim:
+    description: Claim a chunk
   chunkinfo:
+    description: Get the chunkinfo
